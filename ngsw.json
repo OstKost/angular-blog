@@ -1,0 +1,97 @@
+{
+  "configVersion": 1,
+  "timestamp": 1582655467474,
+  "index": "/angular-blog/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/angular-blog/5-es2015.321e50ed0eb4f64f0eee.js",
+        "/angular-blog/5-es5.321e50ed0eb4f64f0eee.js",
+        "/angular-blog/favicon.ico",
+        "/angular-blog/index.html",
+        "/angular-blog/main-es2015.c5a95ccfc319d549e866.js",
+        "/angular-blog/main-es5.c5a95ccfc319d549e866.js",
+        "/angular-blog/manifest.webmanifest",
+        "/angular-blog/polyfills-es2015.c8899479ee2ce808595e.js",
+        "/angular-blog/polyfills-es5.19db462866e1ac655f50.js",
+        "/angular-blog/runtime-es2015.1867320f24ba5b355f6e.js",
+        "/angular-blog/runtime-es5.1867320f24ba5b355f6e.js",
+        "/angular-blog/styles.c6c80512ca9475913a65.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/angular-blog/assets/icons/icon-128x128.png",
+        "/angular-blog/assets/icons/icon-144x144.png",
+        "/angular-blog/assets/icons/icon-152x152.png",
+        "/angular-blog/assets/icons/icon-192x192.png",
+        "/angular-blog/assets/icons/icon-384x384.png",
+        "/angular-blog/assets/icons/icon-512x512.png",
+        "/angular-blog/assets/icons/icon-72x72.png",
+        "/angular-blog/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "firebase-posts",
+      "patterns": [
+        "https:\\/\\/angular-blog-f58a3\\.firebaseio\\.com\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 5,
+      "maxAge": 0,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/angular-blog/5-es2015.321e50ed0eb4f64f0eee.js": "f134fddac2644d6d28b3e790a6f28ae2a2e7925b",
+    "/angular-blog/5-es5.321e50ed0eb4f64f0eee.js": "0ed4a46fbbf91ae29b3d7c22c43faa7b8e1a20e1",
+    "/angular-blog/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular-blog/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular-blog/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular-blog/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular-blog/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular-blog/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular-blog/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular-blog/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-blog/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/angular-blog/index.html": "6f8f256322d2042e8f027b702b1940e09434d822",
+    "/angular-blog/main-es2015.c5a95ccfc319d549e866.js": "211327af4c8eed5b03ab1927416e17428ef40610",
+    "/angular-blog/main-es5.c5a95ccfc319d549e866.js": "451d8f51e28466015e993526dae7874b071ccf5f",
+    "/angular-blog/manifest.webmanifest": "5e0b351c1af275904eb50509fc7e0a2ced938b40",
+    "/angular-blog/polyfills-es2015.c8899479ee2ce808595e.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
+    "/angular-blog/polyfills-es5.19db462866e1ac655f50.js": "8d03638471d7374e81cf33adfdea439f84ac3873",
+    "/angular-blog/runtime-es2015.1867320f24ba5b355f6e.js": "4d41050bd952e5f5aa0cfdd566cc857630872369",
+    "/angular-blog/runtime-es5.1867320f24ba5b355f6e.js": "cd47dee58dbfdab32bc6189729d2c8026350d46e",
+    "/angular-blog/styles.c6c80512ca9475913a65.css": "6746675907257e8d8f6ef63fe09f5391f9d35c84"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
