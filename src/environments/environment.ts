@@ -1,4 +1,5 @@
 import { Environment } from './interface';
+import { API_KEY, FB_URL } from './env.constants';
 
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
@@ -6,8 +7,8 @@ import { Environment } from './interface';
 
 export const environment: Environment = {
   production: false,
-  apiKey: 'AIzaSyAbrJx456p16H9QSjqrDKdfFu45mD0Fx4M',
-  fbUrl: 'https://angular-blog-f58a3.firebaseio.com'
+  apiKey: API_KEY,
+  fbUrl: FB_URL
 };
 
 /*
