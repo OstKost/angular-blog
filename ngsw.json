@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1582655467474,
+  "timestamp": 1582656283089,
   "index": "/angular-blog/index.html",
   "assetGroups": [
     {
@@ -12,8 +12,8 @@
         "/angular-blog/5-es5.321e50ed0eb4f64f0eee.js",
         "/angular-blog/favicon.ico",
         "/angular-blog/index.html",
-        "/angular-blog/main-es2015.c5a95ccfc319d549e866.js",
-        "/angular-blog/main-es5.c5a95ccfc319d549e866.js",
+        "/angular-blog/main-es2015.85f698ef9b7a95668485.js",
+        "/angular-blog/main-es5.85f698ef9b7a95668485.js",
         "/angular-blog/manifest.webmanifest",
         "/angular-blog/polyfills-es2015.c8899479ee2ce808595e.js",
         "/angular-blog/polyfills-es5.19db462866e1ac655f50.js",
@@ -66,9 +66,9 @@
     "/angular-blog/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/angular-blog/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/angular-blog/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular-blog/index.html": "6f8f256322d2042e8f027b702b1940e09434d822",
-    "/angular-blog/main-es2015.c5a95ccfc319d549e866.js": "211327af4c8eed5b03ab1927416e17428ef40610",
-    "/angular-blog/main-es5.c5a95ccfc319d549e866.js": "451d8f51e28466015e993526dae7874b071ccf5f",
+    "/angular-blog/index.html": "9d733fa9b20298a294928230d1469a02a70814ca",
+    "/angular-blog/main-es2015.85f698ef9b7a95668485.js": "1535b94d7b398eceb2a712cc2613491fd76ea8f8",
+    "/angular-blog/main-es5.85f698ef9b7a95668485.js": "25049801b299644526003c55dada3f25278cfec8",
     "/angular-blog/manifest.webmanifest": "5e0b351c1af275904eb50509fc7e0a2ced938b40",
     "/angular-blog/polyfills-es2015.c8899479ee2ce808595e.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/angular-blog/polyfills-es5.19db462866e1ac655f50.js": "8d03638471d7374e81cf33adfdea439f84ac3873",
