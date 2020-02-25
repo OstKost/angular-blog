@@ -1,0 +1,22 @@
+<div *ngIf="post$ | async as post; else loading">
+  <mat-card class="post">
+    <header class="header">
+      <mat-card-title>{{post.title}}</mat-card-title>
+    </header>
+
+    <a routerLink="/" class="btn btn-dark">На главную</a>
+
+    <div class="info">
+      <strong>{{post.author}}</strong>
+      <small>{{post.date | date:'medium':null:'ru'}}</small>
+    </div>
+
+    <mat-card-content>
+      <quill-view-html>{{post.text}}</quill-view-html>
+    </mat-card-content>
+  </mat-card>
+</div>
+
+<ng-template #loading>
+  <p class="text-center">Loading post...</p>
+</ng-template>
